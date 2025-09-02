@@ -59,8 +59,8 @@ def update_files_and_git():
 
     # Check if the local time hour is odd.
     now = datetime.now()
-    if not (now.hour % 2 != 0):
-        print("Current hours is even. Exiting without updating.")
+    if not (now.hour % 2 == 0):
+        print("Current hours is odd. Exiting without updating.")
         return
 
     print("Current time is within the update window. Proceeding with update...")
