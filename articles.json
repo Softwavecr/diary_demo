@@ -1,28 +1,15 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "GlobeNewswire"
+      "id": "national-geographic",
+      "name": "National Geographic"
     },
-    "author": "Bitget Limited",
-    "title": "Bitget Futures Ranks in Top #3 For ETH Amidst New ATHs, Monthly Report Highlights",
-    "description": "Bitget\u2019s August 2025 Transparency Report highlights $750B derivatives volume, RWA Index Perpetuals launch, LATAM growth, and cultural activations.......",
-    "url": "https://www.globenewswire.com/news-release/2025/09/10/3147594/0/en/Bitget-Futures-Ranks-in-Top-3-For-ETH-Amidst-New-ATHs-Monthly-Report-Highlights.html",
-    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/1d6d5ad9-e478-4b92-a907-c63f166a3af9",
-    "publishedAt": "2025-09-10T10:28:00Z",
-    "content": "VICTORIA, Seychelles, Sept. 10, 2025 (GLOBE NEWSWIRE) -- Bitget\r\n, the worlds leading cryptocurrency exchange and Web3 company, has released its August 2025 Transparency Report, showing its strengthe\u2026 [+5549 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ndtvprofit.com"
-    },
-    "author": "Bloomberg News",
-    "title": "Spotify Introduces Higher-Fidelity Feature For Paying Customers",
-    "description": "Spotify Technology SA is introducing higher-quality sound for paying subscribers, the streaming company\u2019s latest effort to enhance the listening experience for its best customers. When the rollout is complete next month, subscribers will be able to choose lis\u2026",
-    "url": "https://www.ndtvprofit.com/business/entertainment-music-songs-spotify-introduces-higher-fidelity-feature-for-paying-customers",
-    "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-07-29%2Fqmy3ter7%2F437288456.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-    "publishedAt": "2025-09-10T12:18:45Z",
-    "content": "Spotify Technology SA is introducing higher-quality sound for paying subscribers, the streaming companys latest effort to enhance the listening experience for its best customers.\r\nWhen the rollout is\u2026 [+935 chars]"
+    "author": "Studio Davide Monteleone,Barbie Latza Nadeau",
+    "title": "How 3,000 drones recreated Michelangelo\u2019s masterpieces above the Vatican",
+    "description": "The lightweight tech is custom-made, with drones swapping in and out seamlessly to create halos of light\u2014and the hand of God.",
+    "url": "https://www.nationalgeographic.com/culture/article/pope-leo-vatican-jubilee-drone-show-rome-",
+    "urlToImage": "https://i.natgeofe.com/n/b7b93a0d-381b-4bb1-94f0-16e4516aea5b/MM10470_022_s_16x9.jpg?w=1200",
+    "publishedAt": "2025-09-14T00:00:00Z",
+    "content": "Midway through, the group faced momentary uncertainty with the death of Pope Francis and the election of the first American pope, whom Kimbal Musk says wrote them a meaningful letter, essentially ble\u2026 [+1587 chars]"
   }
 ]
