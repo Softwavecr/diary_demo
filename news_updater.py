@@ -59,7 +59,7 @@ def update_files_and_git():
 
     # Check if the local time hour is odd.
     now = datetime.now()
-    if not (now.hour % 2 == 0):
+    if not (now.hour % 2 == 1):
         print("Current hours is odd. Exiting without updating.")
         return
 
