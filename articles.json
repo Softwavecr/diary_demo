@@ -2,19 +2,6 @@
   {
     "source": {
       "id": null,
-      "name": "The Indian Express"
-    },
-    "author": "Sukrita Baruah",
-    "title": "\u2018Violent clashes\u2019 between students from Bangladesh: 5 suspended by NIT Silchar, set to head back home",
-    "description": "They were expelled from their hostels for 2 semesters after the clashes on September 8 left several students injured",
-    "url": "https://indianexpress.com/article/india/clashes-students-bangladesh-nit-silchar-10252046/",
-    "urlToImage": "https://images.indianexpress.com/2025/09/NIT-Silchar.jpg",
-    "publishedAt": "2025-09-15T17:22:34Z",
-    "content": "Five Bangladeshi nationals studying at the National Institute of Technology (NIT) in Assams Silchar have been suspended in connection with clashes at the campus and are likely to leave the country by\u2026 [+1753 chars]"
-  },
-  {
-    "source": {
-      "id": null,
       "name": "GlobeNewswire"
     },
     "author": "Research and Markets",
@@ -24,5 +11,18 @@
     "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
     "publishedAt": "2025-09-17T14:33:00Z",
     "content": "Dublin, Sept. 17, 2025 (GLOBE NEWSWIRE) -- The \"Suppository Packaging Market Opportunity, Growth Drivers, Industry Trend Analysis, and Forecast 2025-2034\" report has been added to ResearchAndMarkets.\u2026 [+6533 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Archinect"
+    },
+    "author": "Nikken Sekkei",
+    "title": "Mizunamikita Junior High School by NIKKEN SEKKEI LTD",
+    "description": "A Student-Driven Net Zero Energy School A student-driven Zero Energy School initiative Mizunamikita Junior High School, positioned on the south-facing slopes of a hill overlooking Mizunami City, stands as a pioneering project that has achieved the status of t\u2026",
+    "url": "https://archinect.com/firms/project/66159/mizunamikita-junior-high-school/150499374",
+    "urlToImage": "https://archinect.gumlet.io/uploads/7f/7fa7dd3cc4a3f8d1ad84cf2de15362a5.jpg?fit=crop&auto=compress%2Cformat&enlarge=true&w=1200",
+    "publishedAt": "2025-09-17T22:39:00Z",
+    "content": "A Student-Driven Net Zero Energy School\r\nA student-driven Zero Energy School initiative\r\nMizunamikita Junior High School, positioned on the south-facing slopes of a hill overlooking Mizunami City, st\u2026 [+6385 chars]"
   }
 ]
