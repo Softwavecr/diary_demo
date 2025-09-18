@@ -1,19 +1,6 @@
 [
   {
     "source": {
-      "id": "national-geographic",
-      "name": "National Geographic"
-    },
-    "author": "Studio Davide Monteleone,Barbie Latza Nadeau",
-    "title": "How 3,000 drones recreated Michelangelo\u2019s masterpieces above the Vatican",
-    "description": "The lightweight tech is custom-made, with drones swapping in and out seamlessly to create halos of light\u2014and the hand of God.",
-    "url": "https://www.nationalgeographic.com/culture/article/pope-leo-vatican-jubilee-drone-show-rome-",
-    "urlToImage": "https://i.natgeofe.com/n/b7b93a0d-381b-4bb1-94f0-16e4516aea5b/MM10470_022_s_16x9.jpg?w=1200",
-    "publishedAt": "2025-09-14T00:00:00Z",
-    "content": "Midway through, the group faced momentary uncertainty with the death of Pope Francis and the election of the first American pope, whom Kimbal Musk says wrote them a meaningful letter, essentially ble\u2026 [+1587 chars]"
-  },
-  {
-    "source": {
       "id": null,
       "name": "The Indian Express"
     },
@@ -24,5 +11,18 @@
     "urlToImage": "https://images.indianexpress.com/2025/09/NIT-Silchar.jpg",
     "publishedAt": "2025-09-15T17:22:34Z",
     "content": "Five Bangladeshi nationals studying at the National Institute of Technology (NIT) in Assams Silchar have been suspended in connection with clashes at the campus and are likely to leave the country by\u2026 [+1753 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Research and Markets",
+    "title": "Suppository Packaging Market Trend Analysis and Forecast Report 2025-2034 Featuring Major Players and Market Disruptors - Leonard Group, Pharmapac, Schreiner MediPharm, and Jabil Healthcare",
+    "description": "Suppository Packaging Market Booms: Sustainability & Innovation Drive Growth Amid Rising Healthcare Needs Suppository Packaging Market Booms: Sustainability & Innovation Drive Growth Amid Rising Healthcare Needs",
+    "url": "https://www.globenewswire.com/news-release/2025/09/17/3151803/28124/en/Suppository-Packaging-Market-Trend-Analysis-and-Forecast-Report-2025-2034-Featuring-Major-Players-and-Market-Disruptors-Leonard-Group-Pharmapac-Schreiner-MediPharm-and-Jabil-Health.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+    "publishedAt": "2025-09-17T14:33:00Z",
+    "content": "Dublin, Sept. 17, 2025 (GLOBE NEWSWIRE) -- The \"Suppository Packaging Market Opportunity, Growth Drivers, Industry Trend Analysis, and Forecast 2025-2034\" report has been added to ResearchAndMarkets.\u2026 [+6533 chars]"
   }
 ]
